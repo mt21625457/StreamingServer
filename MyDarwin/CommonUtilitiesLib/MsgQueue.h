@@ -1,16 +1,3 @@
-/*====================================================================
- * 
- * @file		MsgQueue.h
- * @author		Deng Yi <kofera_deng@gmail.com>
- * @date		Mon Nov 10 22:23:34 2014
- * 
- * Copyright (c) 2014 Deng Yi (kofera_deng@gmail.com)
- * 
- * @brief		A Generic Message Queue
- * 
- * 
- *===================================================================*/
-
 #ifndef MSG_QUEUE_H
 #define MSG_QUEUE_H
 
