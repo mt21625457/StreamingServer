@@ -1,15 +1,3 @@
-/*====================================================================
- * 
- * @file		MsgQueue.cpp
- * @author		Deng Yi <kofera_deng@gmail.com>
- * @date		Mon Nov 10 22:35:12 2014
- * 
- * Copyright (c) 2014 Deng Yi (kofera_deng@gmail.com)
- * 
- * @brief		A Generic Message Queue Implemention
- * 
- * 
- *===================================================================*/
 
 #include <pthread.h>
 #include <time.h>
